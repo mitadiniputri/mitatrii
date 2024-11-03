@@ -1,0 +1,117 @@
+body {
+	background-image: url("/Tugas/images/wattpad.png");
+}
+h1 {
+	background-color: midnightblue;
+	color: whitesmoke;
+	text-decoration: underline wavy hotpink;
+	text-shadow: 2px 2px 5px peachpuff;
+	text-align: center;
+}
+div {
+	padding: 10px;
+}
+.box {
+	width: 1270px;
+	height: 160px;
+	padding: 20px;
+	border: 5px solid chocolate;
+	margin: 15px;
+	background-color: blanchedalmond;
+	text-align: justify;
+	text-indent: 32px;
+}
+p {
+	text-align: justify;
+	text-indent: 32px;
+}
+.box2 {
+	width: 1270px;
+	height: 700px;
+	padding: 20px;
+	border: 5px solid chocolate;
+	margin: 15px;
+	background-color: blanchedalmond;
+	text-align: justify;
+	text-indent: 32px;
+}
+.box3 {
+	width: 1270px;
+	height: 600px;
+	padding: 20px;
+	border: 5px solid chocolate;
+	margin: 15px;
+	background-color: blanchedalmond;
+	text-align: justify;
+	text-indent: 32px;
+}
+img {
+	width: 220px;
+	height: 160px;
+	float: left;
+	margin-right: 10px;
+}
+img2 {
+	width: 220px;
+	height: 160px;
+	float: right;
+	margin-left: 10px;
+}
+ul {
+	padding: 20px;
+}
+
+ul li {
+	background: hotpink;
+	color: black;
+	margin: 5px;
+}
+h2 {
+	color: hotpink;
+	text-shadow: 2px 2px 5px peachpuff;
+	text-align: center;
+	text-decoration: underline whitesmoke;
+	background-color: skyblue;
+}
+table, th, td {
+	border: 1px solid;
+}
+table {
+	width: 70%;
+	border-collapse: collapse;
+}
+
+tr:hover {background-color: grey;
+}
+
+th {
+	height: 50%;
+	text-align: center;
+	background-color: deeppink;
+	text-shadow: 2px 2px 5px white;
+}
+
+td {
+	height: 50%;
+	text-align: center;
+}
+ol {
+	padding: 10px;
+}
+ol li {
+	background: hotpink;
+	color: black;
+	margin: 5px;
+	text-align: justify;
+}
+h3 {
+	color: whitesmoke;
+	text-shadow: 2px 2px 5px black;
+	text-align: center;
+}
+.icon{
+	font-size: 20px;
+	color: deepskyblue;
+	margin: 5px;
+	padding: 10px;
+}
